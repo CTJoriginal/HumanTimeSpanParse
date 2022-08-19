@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <Authors>$(Authors)</Authors>
+    <Description>Simple package for parsing human written time spans into TImeSpan object</Description>
+    <PackageProjectUrl></PackageProjectUrl>
+    <Copyright></Copyright>
+    <RepositoryUrl>https://github.com/CTJoriginal/HumanTimeSpanParser</RepositoryUrl>
+    <GeneratePackageOnBuild>False</GeneratePackageOnBuild>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+  </PropertyGroup>
+
+</Project>
